@@ -38,3 +38,20 @@ header{
 	color: white;
 	
 }
+
+.segunda{
+	padding: 0.8em;
+	float: right;
+}
+
+.segunda h4{
+	color: green;
+}
+
+.informacion{
+	padding: 110px;
+}
+
+.info{
+	background-color: #D5CC5F;
+}
