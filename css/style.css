@@ -55,3 +55,17 @@ header{
 .info{
 	background-color: #D5CC5F;
 }
+
+.tercera h4{
+	color: white;
+}
+
+.otra{
+	background-image: url(../img/all.jpg);
+	height: 90vh;
+	background-size: cover;
+}
+
+.cuarta{
+	color: white;
+}
