@@ -52,20 +52,55 @@ header{
 	padding: 110px;
 }
 
-.info{
+.tres{
 	background-color: #D5CC5F;
+	padding: 100px 0;
+	margin-bottom: 0;
 }
 
-.tercera h4{
+row img{
+	width: 76%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.img-responsive{
+	border: solid 12px white;
+
+}
+
+.tres h4{
 	color: white;
 }
 
-.otra{
+.tres h1{
+	color: green;
+}
+
+.tres p{
+	color: white;
+}
+
+.cuarta-seccion{
 	background-image: url(../img/all.jpg);
 	height: 90vh;
 	background-size: cover;
 }
 
-.cuarta{
+.cuarta h5{
 	color: white;
+}
+
+.cuarta p{
+	color: white;	
+}
+
+.container h1{
+color: #D5CC5F;
+margin-top: 60px;
+margin-bottom: 60px;
+}
+
+.text-help i{
+color: #D5CC5F;
 }
