@@ -33,6 +33,10 @@ header{
 
 }
 
+.tres h1{
+	color: green;
+}
+
 
 .informacion p{
 	color: white;
@@ -50,6 +54,11 @@ header{
 
 .informacion{
 	padding: 110px;
+}
+
+.informacion button{
+	background-color: green;
+	color: white;
 }
 
 .tres{
@@ -81,6 +90,11 @@ row img{
 	color: white;
 }
 
+.tres button{
+	background-color: green;
+	color: white;
+}
+
 .cuarta-seccion{
 	background-image: url(../img/all.jpg);
 	height: 90vh;
@@ -95,7 +109,11 @@ row img{
 	color: white;	
 }
 
-.container h1{
+.text{
+	color: black;
+}
+
+.container{
 color: #D5CC5F;
 margin-top: 60px;
 margin-bottom: 60px;
@@ -104,3 +122,40 @@ margin-bottom: 60px;
 .text-help i{
 color: #D5CC5F;
 }
+
+.seis{
+	background-color: #A89F68;
+	padding: 40px;
+	margin-bottom: 0;
+}
+
+.signo {
+	color: #fff;
+	font-size: 1em;
+	vertical-align: 3em;
+}
+.precio {
+	color: #fff;
+	font-size: 5em;
+}
+.moneda {
+	color: #fff;
+	font-size: 1em;
+}
+.seis button{
+	background-color: #41521f;
+}
+
+footer {
+	padding: 75px 0;
+	background-color: #41521f;
+	color: #fff;
+}
+footer a {
+	display: block;
+	color: #A89F68;
+}
+.footer {
+	padding-top: 2.5em;
+}
+
